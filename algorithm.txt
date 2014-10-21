@@ -1,0 +1,84 @@
+How to Beat texas holdem
+
+bluff only exists with decent players
+How to check the level of a player
+in the first 10 games 
+if number of fold is more than 3 then we can bluff
+
+1st step: check my hand
+check    Is my card composed of face cards(10<)
+	is my card suited and one of them is a face card?
+	is my card connected? (3 as smallest)
+	is my card “pocket”
+
+If so, play (by 1) (ready cards)
+If no play (by .1)
+	is your position first/second third?
+		Is your hand (AA/KK/AK)?
+raise or bet (.9) – by .5 twice / by .5 times 2.5 (If you have AA/KK/AK) and if the other player reraises >> reraise again twice by .5 and call by .5 (if you have AA/AK)
+call any / check (.1)
+		When my cards are not AA/KK/AK
+If everyone before me checked, check  (.8) bet twice (.2) 
+If someone bets and its less than twice
+call the bet (if it’s less or equal to twice of big blind money) by .95
+raise twice by (.05) -------------------------------------------------------------- this is bluff
+if someone bets and its more than twice AND you have ready cards
+call the bet  (.95)
+	 raise (.05) ------------------------------------------------------------------bluff
+raise or bet (.9) – by .5 twice / by .5 times 2.5 (If you have AA/KK/AK) and if the other player reraises >> reraise again twice by .5 and call by .5 (if you have AA/AK)
+	is your position second third?
+
+2nd step: Flop
+check what do you have first
+
+options u can have:
+royal straight flush: ----------- if check --- check (by .8) / bet .7 potsize (by.2)
+				if bet --- call the bet (.5) / raise .7potsize (.5) 
+straight flush ----------- if check --- check (by .8) / bet .7 potsize (by.2)
+				if bet --- call the bet (.5) / raise .7potsize (.5) 
+four cards ---------------- if check ---- check (.8) / bet(.2) but don’t bet if the opponent is a noob
+			if bet --- call the bet (.5)  /   raise (.5)
+
+full house ----------- if check --- check (by .8) / bet .7 potsize (by.2)
+				if bet --- call the bet (.5) / raise .7potsize (.5) 
+flush ----------- if check --- check (by .8) / bet .7 potsize (by.2)
+				if bet --- call the bet (.5) / raise .7potsize (.5) 
+straight (back straight lowest broadway highest)
+three of a kind
+two pair
+one pair	-poket pair over top pair  ------- check/ bet .7/.3
+-top pair ------- check/bet .6/.4
+		-middle pair ---------- check/bet .5/.5
+		-bottom pair ---------- check/bet  .2/.8
+high card ----------------check and fold for bet if the opponent is noob
+			bluff based on position or previous action ----------------------------bluff
+If I bet/raise before the flop ---- bet .7 potsize (.7)  --------------------------------can be bluff
+If I bluffed before the flop --- bet .7 potsize (by 1) 
+If pot is not raised and flop’s top card has a flashy face card --- bet (by.6) -------------------bluff
+If pot is raised and the flop’s top card is not a face card ---- bet (by.6) ------------------------bluff
+
+one card short from flush ------------------ must call up to twice potsize bet or raise / otherwise call/fold .2/.8
+
+one card short from straight (both ways)------------------ must call up to 1.2 times potsize bet or raise/ otherwise call/fold .2/.8
+				(belly) --------------- must call up to .3 times potsize bet or raise
+						up to potsize bet  call/fold  .7/.3
+						more than that  call/fold .2/.8
+small flush 
+If the opponent went all-in  ----------fold
+kicker is <11
+
+small straight (three connecting cards on the table AND I have bottom AND the opponent went all-in)
+
+
+
+
+3rd step:Turn
+If I bluffed, and the opponent called ------------------- check and fold the bet (.95) / bet .7 potsize or call the bet less than .7 potsize (.05)                 must fold if the bet is bigger than the potsize
+
+
+4th step: River
+
+
+
+
+later work: calculate my cards’ percentage of winning based on what the other player might have  
